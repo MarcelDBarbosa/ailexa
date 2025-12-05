@@ -1,4 +1,4 @@
-<h1 align="center">AIlexa</h1>
+<h1 align="center">AiLexa</h1>
 
 
 Uma assistente de áudio em protuguês que automatiza algumas tarefas. O programa foi testado com Python 3.11.7 num MacBook Air, com processador Apple M2, 8 Gb de memória e macOS Sequoia 15.7.2. 
