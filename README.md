@@ -1,5 +1,5 @@
 <h1 align="center">AiLexa</h1>
-
+![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Uma assistente de áudio em protuguês que automatiza algumas tarefas. O programa foi testado com Python 3.11.7 num MacBook Air, com processador Apple M2, 8 Gb de memória e macOS Sequoia 15.7.2. 
 
